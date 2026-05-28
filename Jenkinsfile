@@ -3,8 +3,8 @@ pipeline {
 
     environment {
         AWS_DEFAULT_REGION = 'ap-south-2'
-        APPLICATION_NAME = 'Jenkins-CodeDeploy-App'
-        DEPLOYMENT_GROUP = 'Jenkins-Deployment-Group'
+        APPLICATION_NAME = 'Uma-Jenkins-CodeDeploy-App'
+        DEPLOYMENT_GROUP = 'Uma-Jenkins-Deployment-Group'
         S3_BUCKET = 'uma-codedeploy-artifacts-2026'
     }
 
